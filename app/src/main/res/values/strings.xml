@@ -1,0 +1,14 @@
+<resources>
+	<string name="app_name">DomaKruche</string>
+	<string name="title_home">Я дома</string>
+	<string name="title_prizes">Призы</string>
+	<string name="title_leaders">Лидеры</string>
+	<string name="im_home_button_text">Я дома</string>
+	<string name="prizes_stub_text">Скоро здесь появятся призы от партнёров</string>
+	<string name="timer_start_time">59:59</string>
+	<string name="default_points_count">0</string>
+	<string name="points">баллов</string>
+	<string name="place">место</string>
+	<string name="info_text">Хотите получить дополнительную выгоду от пребывания дома? Вот три простых шага: \n1. Нажимаете на кнопку \"Я дома\" \n2. Накапливаете баллы \n3. Обмениваете баллы на промокоды и подарки от наших партнёров \n\nНет ничего проще! Таймер покажет Вам, через какое время можно снова пополнить баланс.\n\nПомните, что баллы можно пополнять только находясь в уютной домашней обстановке :)\n\nСо списком возможных подарков Вы можете ознакомиться в разделе \"Призы\".\n\nКопите баллы, выходите в лидеры и да прибудет с Вами Сила Обломова!</string>
+	<string name="want_points">Хочу баллы!</string>
+</resources>
